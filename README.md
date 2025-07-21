@@ -69,3 +69,5 @@ Feel free to open an issue or submit a pull request!
 
 ## --License--
 This project is licensed under the MIT License – see LICENSE.md for details.
+
+<h1 align="center">== ⋅˚₊‧ ୨୧ ‧₊˚⋅ ==</h1>
