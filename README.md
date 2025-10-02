@@ -36,8 +36,8 @@ CurrencyConverter/
 ├── Currency.java            # Represents a single currency
 ├── CurrencyStore.java       # Stores and manages all currencies
 ├── Conversion.java          # Represents a single conversion operation
-├── ConversionManager.java   # Handles history, undo, redo
-└── README.md                # You are here!
+└── ConversionManager.java   # Handles history, undo, redo
+README.md                # You are here!
 ```
 
 ---
