@@ -31,12 +31,14 @@ A simple but fully interactive and extensible **console-based currency converter
 ## Project Structure
 
 ```bash
-CurrencyConverter/
+Currency Converter/
 ├── Main.java                # Entry point of the program
 ├── Currency.java            # Represents a single currency
 ├── CurrencyStore.java       # Stores and manages all currencies
 ├── Conversion.java          # Represents a single conversion operation
 └── ConversionManager.java   # Handles history, undo, redo
+.gitignore
+LICENSE
 README.md                # You are here!
 ```
 
